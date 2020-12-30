@@ -1,0 +1,10 @@
+[
+    {
+        "ParameterKey": "Environment",
+        "ParameterValue": "Udagram"
+    },
+    {
+        "ParameterKey": "Project",
+        "ParameterValue": "High-Availability-web-app"
+    }
+]
